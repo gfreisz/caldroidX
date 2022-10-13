@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NCSACaldroidX.iml" filepath="$PROJECT_DIR$/.idea/modules/NCSACaldroidX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/caldroid/NCSACaldroidX.caldroid.iml" filepath="$PROJECT_DIR$/.idea/modules/caldroid/NCSACaldroidX.caldroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/caldroid/NCSACaldroidX.caldroid.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/caldroid/NCSACaldroidX.caldroid.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/caldroid/NCSACaldroidX.caldroid.main.iml" filepath="$PROJECT_DIR$/.idea/modules/caldroid/NCSACaldroidX.caldroid.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/caldroid/NCSACaldroidX.caldroid.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/caldroid/NCSACaldroidX.caldroid.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/caldroidSampleActivity/NCSACaldroidX.caldroidSampleActivity.iml" filepath="$PROJECT_DIR$/.idea/modules/caldroidSampleActivity/NCSACaldroidX.caldroidSampleActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/caldroidSampleActivity/NCSACaldroidX.caldroidSampleActivity.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/caldroidSampleActivity/NCSACaldroidX.caldroidSampleActivity.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/caldroidSampleActivity/NCSACaldroidX.caldroidSampleActivity.main.iml" filepath="$PROJECT_DIR$/.idea/modules/caldroidSampleActivity/NCSACaldroidX.caldroidSampleActivity.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/caldroidSampleActivity/NCSACaldroidX.caldroidSampleActivity.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/caldroidSampleActivity/NCSACaldroidX.caldroidSampleActivity.unitTest.iml" />
+    </modules>
+  </component>
+</project>
